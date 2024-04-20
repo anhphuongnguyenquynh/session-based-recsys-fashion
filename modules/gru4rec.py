@@ -11,7 +11,7 @@ import os.path
 orig_cwd = os.getcwd()
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 os.environ['THEANORC'] = '.theanorc_gru4rec' #Only affects the actual settings if theano was not imported before this point (by any module)
-import custom_opt
+##import custom_opt
 import datatools as datatools
 import theano
 from theano import tensor as T
