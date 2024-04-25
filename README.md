@@ -1,1 +1,1 @@
-# session-based-recsys-fashion
+Session-based Recommendation System in Fashion
