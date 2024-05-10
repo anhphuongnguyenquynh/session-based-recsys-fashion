@@ -1,5 +1,6 @@
 """""
-Source ref: 
+Source ref: HitRate: https://pytorch.org/torcheval/main/generated/torcheval.metrics.HitRate.html#torcheval.metrics.HitRate
+Source ref: MRR: https://pytorch.org/torcheval/main/generated/torcheval.metrics.ReciprocalRank.html#torcheval.metrics.ReciprocalRank
 """""
 
 def HitRate(topNPredicted, leftOutPredictions):
