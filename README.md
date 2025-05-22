@@ -10,9 +10,13 @@ The dataset used is from RecSys Challenge 2022, provided by [Dressipi](https://d
 - A session was defined interaction of anonymous user within a day
 
 **In this project, I use Deep Learning methods:**
+
 🧠 NARM (Neural Attentive Recommendation Machine)
+
 🧠 Transformer-based models
+
 🧠 BERT4Rec (Bidirectional Encoder Representations from Transformers for Sequential Recommendation)
+
 Additionally, I applied data augmentation techniques during preprocessing to enhance session diversity and model generalization.
 
 🧪 **Data Augmentation techniques**
